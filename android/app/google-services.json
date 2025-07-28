@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "990481899232",
+    "project_id": "elves-7a53f",
+    "storage_bucket": "elves-7a53f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990481899232:android:0a395917b33858bab77a85",
+        "android_client_info": {
+          "package_name": "com.example.quicklo_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "990481899232-ucgqcik8pf933i6e1ulub1r4b0jfo9to.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxjiwg-GDEFDioYtufOpfzKIaZ2HA2PrQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "990481899232-ucgqcik8pf933i6e1ulub1r4b0jfo9to.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990481899232:android:d84d4e93a65050d7b77a85",
+        "android_client_info": {
+          "package_name": "com.example.zoom_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "990481899232-ucgqcik8pf933i6e1ulub1r4b0jfo9to.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxjiwg-GDEFDioYtufOpfzKIaZ2HA2PrQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "990481899232-ucgqcik8pf933i6e1ulub1r4b0jfo9to.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
